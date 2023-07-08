@@ -1,2 +1,2 @@
 # bankshoper
-<p><a href="https://program-surface.onrender.com/" target="_blank">Live Demo: https://program-surface.onrender.com/</a></p>
+<p><a href="https://mahbubhasantamim.github.io/bankshoper/" target="_blank">Live Demo: https://mahbubhasantamim.github.io/bankshoper/</a></p>
